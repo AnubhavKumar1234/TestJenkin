@@ -23,7 +23,7 @@ public class JenkinTest
 		driver.get(Url);
 		System.out.println(Url);
 		System.out.println("Campaign created");
-		system.out.println("pulling code from github");
+		System.out.println("pulling code from github");
 
 }
 
